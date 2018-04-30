@@ -1,7 +1,7 @@
 # ProjectCB
-This is the Project about Collector Bot to automate the farming industry
-Technologies Utilised:
-->Python 2.7
-->Open CV
-->Embedded C
-->V-REP(Virtual Robotics Experimentation Platform)
+This is the Project about Collector Bot to automate the farming industry</br>
+Technologies Utilised</br>
+Python 2.7</br>
+Open CV</br>
+Embedded C</br>
+V-REP(Virtual Robotics Experimentation Platform)</br>
